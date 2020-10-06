@@ -1,8 +1,4 @@
 # CodigosPOO
 Códigos POO
 
-X-XName: Codigos Aula tranversal
-
-GuiaX-X: Codigos Giuas aula clase.
-
-PresentacionX-X: Codigos de las presentaciones.
+    ELABORADO POR: Jersson Javier Ortegate Banderas
